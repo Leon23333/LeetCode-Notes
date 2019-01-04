@@ -1,4 +1,4 @@
-package 用队列实现栈;
+package Stack.用队列实现栈;
 
 import java.util.LinkedList;
 

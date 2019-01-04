@@ -1,4 +1,4 @@
-package 最小栈;
+package Stack.最小栈;
 
 import java.util.Stack;
 

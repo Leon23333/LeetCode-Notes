@@ -1,4 +1,4 @@
-package 用栈实现队列;
+package Stack.用栈实现队列;
 
 import java.util.Stack;
 
